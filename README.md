@@ -2,9 +2,9 @@
 ## I'm a Husband 👫 , Developer 💻 , AE (Aeronautic Engineer)🛩️ and Teacher 👨‍🏫 !!
 
 
-- 🌱 I’m currently learning everything 🤣 (I :heart_on_fire: learning )
+- 🌱 I’m currently learning more about AWS, Docker, React, typescript... 🤣 (I :heart_on_fire: learning )
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: Creating youtube Fun content for my childrens :baby:
 - 🏄 Sport lover 🤺 🏊 🏋️ , Ukulele boy, Skydiver 🪂  
 - 🖥️  On going: Studying 日本語, React, AWS, Linux, CCNA... 
